@@ -1,0 +1,296 @@
+@media only screen and (min-width: 750px),(max-width: 1300px){
+
+
+*{
+    margin:0;
+    padding:0;
+    width: auto;
+}
+body{
+
+    width:100%;
+
+}
+
+.container1{
+    height:130vh;
+    position: relative;
+    z-index: -1;
+}
+.container1-pt1{
+
+    background-color:rgb(102, 71, 102);
+    height:50%;
+    
+}
+
+ .container-pt{
+ 
+    background-color: white;
+    width:50%;
+    border-radius:25px;
+    border: 1px solid transparent;
+    margin:auto;
+    height:75vh;
+ }
+ .subcontainer{
+    display: flex;
+    margin-top: 1%;
+
+ }
+ .subcontainer .sub-1{
+    width:90%;
+    padding:2%;
+ }
+ .subcontainer img{
+    width: 90%;
+    height:80%;
+    
+ }
+ .subcontainer .info{
+    width: 60%;
+    margin-top:3%;
+
+
+ }
+
+ .header{
+           display:flex;
+ }
+ .menuelist{
+
+        display: flex;
+        color: white;
+        padding-top:4px;
+        margin-left: 20%;
+
+ }
+ .menuelistitems{
+
+    justify-content: space-around;
+    margin-left:50%;
+
+ }
+ .aboutmyself{
+
+      width:90%;
+
+
+ }
+ h2{
+    color: black;
+
+ }
+ .boxes{
+
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3%;
+
+ }
+ .box1{
+  
+       border: 1px solid rgb(202, 199, 199);
+       width:30%;
+
+
+ }
+
+.box2{
+  
+    border: 1px solid rgb(202, 199, 199);
+    width:30%;
+
+
+}
+.box3{
+  
+    border: 1px solid rgb(202, 199, 199);
+    width:30%;
+
+
+}
+.page2{
+     background-color: rgb(172, 164, 164);
+     height:60vh;
+     text-align:center;
+     padding-top: 2%;
+}
+.boxespt2{
+
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 3%;
+    
+
+}
+
+.box4{
+
+    border:1px solid transparent;
+    background-color: white;
+    width: 25%;
+    border-radius: 2px;
+    
+}
+.box5{
+
+    border:1px solid transparent;
+    background-color: white;
+    width: 25%;
+    border-radius: 2px;
+    
+
+   
+}
+.box6{
+
+    border:1px solid transparent;
+    background-color: white;  
+    width: 25%; 
+    border-radius: 2px;
+
+   
+}
+
+.container2-pt2{
+background-color: whitesmoke;
+    display: flex;
+    padding: 10%;
+    gap: 5%;
+   margin-bottom:10%;
+    position: relative;
+    z-index: -1;
+}
+.container2-pt2 .qualities{
+    width:100%;
+    .service{
+        background-color: grey;
+        width: 90%;
+        height: 5px;
+        border: 5px solid white ;
+        border-radius: 5px;
+        margin-top:1%;
+        position: relative;
+        z-index: -1;
+        .one{
+
+            width: 85%;
+            height:4px;
+            background-color: aqua;
+
+        }
+        .two{
+
+            width: 85%;
+            height:4px;
+            background-color: aqua;
+
+        }
+        .three{
+
+            width: 85%;
+            height:4px;
+            background-color: aqua;
+
+        }
+        .four{
+
+            width: 85%;
+            height:4px;
+            background-color: aqua;
+
+        }
+        .five{
+
+            width: 85%;
+            height:4px;
+            background-color: aqua;
+
+        }
+
+
+
+
+        
+    }
+}
+
+
+.blocklist{   
+
+    display:flex;
+    justify-content: space-around;
+    width:75%;
+    margin-top:4%;
+    margin-left:10%;
+    
+
+}
+
+.blogimg{
+
+      display:flex;
+      margin: 50px 20px;
+      box-shadow: 0px 0px 5px 0px rgba(0,0,0,0 ,1);
+      background-color: #ffff;
+      margin-left:20%;
+}
+.blog-p{
+
+    display: flex;
+    flex-direction: column;
+    .button{
+
+        width:8%;
+        display:flex;
+        background-color: rgb(38, 186, 186);
+        margin: auto;
+        margin-bottom:2%;
+      
+    
+        }
+    }
+
+
+.blogimgpt2{
+
+    display:flex;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0 ,1);
+    background-color: #ffff;
+    margin-left:20%;
+    
+}
+
+
+.socialmedia i{
+
+       padding:4%;
+       opacity: 0.5;
+       background-color:grey;
+       margin-left: 1%;
+}
+.content li >i{
+    
+    margin-right:4%;
+    
+}
+.content li{
+        
+    padding: 3%;
+
+}
+
+.bloginfo{
+
+    margin-top: 3%;
+}
+
+.Testimonials{
+    height:40%;
+}
+
+
+}
+
+ 
